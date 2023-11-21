@@ -361,8 +361,14 @@ button.additems_button:hover {
   border-radius: 0.5em;
   box-shadow: 0.3px 4px 18px rgb(0 0 0 / 20%);
   left: 10px;
+}input.input1 {
+  width: 60%;
+  padding: 0.97em;
+  border: solid 1em #131921;
+  border-radius: 1.5em;
 }ul {
   margin-top: 0em;
+  font-size: 13px;
 }.nav_bar2 {
   float: left;
   width: 100%;
