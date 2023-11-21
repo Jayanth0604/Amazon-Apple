@@ -317,11 +317,12 @@ button.additems_button:hover {
   float: left;
   width: 100%;
 }.search123 {
-  position: relative;
-  top: 1.04em;
-  right: 2em;
   cursor: pointer;
+  position: relative;
+  right: 2em;
+  top: 1.04em;
   width: 12%;
+  display: none;
 }.shoes {
   float: left;
   width: 100%;
